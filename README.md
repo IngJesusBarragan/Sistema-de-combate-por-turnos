@@ -21,8 +21,11 @@ Este proyecto es un juego en consola desarrollado en Python que simula un sistem
 
 1. Clonar el repositorio o descargar el archivo.
 2. Ejecutar en la terminal:
-python Sistema_de_combate_por_turnos.py
+   python Sistema_de_combate_por_turnos.py
 
+## Objetivo del proyecto
+
+Este proyecto fue desarrollado como práctica para fortalecer la lógica de programación, estructuras de control y diseño de flujo en Python.
 
 ## Lo que demuestra este proyecto
 
